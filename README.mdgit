@@ -1,0 +1,1 @@
+# Trilha-Java-Desafio-1 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/joaoex15/Trilha-Java-Desafio-1.gitgit push -u origin main
